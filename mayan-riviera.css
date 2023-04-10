@@ -1,0 +1,52 @@
+/* mayan-riviera.css */
+
+body {
+  background-image: url('https://www.example.com/mayan-riviera-bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  background-color: #E3F2FD;
+  color: #333;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #fff;
+  text-shadow: 2px 2px #333;
+  text-align: center;
+  margin: 0;
+  padding: 40px 0;
+}
+
+main {
+  background-color: #BBDEFB;
+  padding: 20px;
+}
+
+footer {
+  background-color: #E3F2FD;
+  color: #333;
+  padding: 20px;
+  text-align: center;
+}
+
+/* blue color scheme */
+
+a {
+  color: #1976D2;
+}
+
+button,
+input[type="submit"] {
+  background-color: #2196F3;
+  color: #fff;
+}
+
+button:hover,
+input[type="submit"]:hover {
+  background-color: #64B5F6;
+}
